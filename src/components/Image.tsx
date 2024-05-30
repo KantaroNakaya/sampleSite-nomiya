@@ -31,31 +31,31 @@ export default function Image() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="/drink/drink01.jpg" />
+          <img src="/assets/drink01.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink02.jpg" />
+          <img src="/assets/drink02.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink03.jpg" />
+          <img src="/assets/drink03.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink04.jpg" />
+          <img src="/assets/drink04.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink05.jpg" />
+          <img src="/assets/drink05.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink06.jpg" />
+          <img src="/assets/drink06.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink07.jpg" />
+          <img src="/assets/drink07.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink08.jpg" />
+          <img src="/assets/drink08.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/drink/drink09.jpg" />
+          <img src="/assets/drink09.jpg" />
         </SwiperSlide>
       </Swiper>
     </div>
