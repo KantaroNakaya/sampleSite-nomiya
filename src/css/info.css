@@ -1,0 +1,14 @@
+.info-container .info01 {
+  font-size: 24px;
+  font-weight: 700;
+  color: red;
+  text-shadow: 1px 1px #333;
+}
+.info-container .info02 {
+  list-style: none;
+}
+.info-container .info03 {
+  font-weight: 700;
+  color: blue;
+  text-decoration: underline;
+}

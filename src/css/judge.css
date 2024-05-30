@@ -1,0 +1,14 @@
+.judge-container {
+  background-color: rgba(250, 255, 208, 0.8);
+  font-size: 18px;
+}
+
+.discount-day {
+  color: red;
+  font-weight: 900;
+}
+
+.normal-day {
+  color: #000;
+  font-weight: 500;
+}

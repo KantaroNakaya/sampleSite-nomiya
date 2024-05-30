@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "bp";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+.site-title{
+    background-color: rgba(0,0,0,0.3);
+    color: #fff;
+    padding: 16px 32px;
+    font-weight: 400;
+    font-family: "Roboto Slab", serif;
+}
