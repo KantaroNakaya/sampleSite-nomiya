@@ -31,31 +31,31 @@ export default function Image() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="/src/assets/drink/drink01.jpg" />
+          <img src="../../public/drink/drink01.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink02.jpg" />
+          <img src="../../public/drink/drink02.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink03.jpg" />
+          <img src="../../public/drink/drink03.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink04.jpg" />
+          <img src="../../public/drink/drink04.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink05.jpg" />
+          <img src="../../public/drink/drink05.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink06.jpg" />
+          <img src="../../public/drink/drink06.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink07.jpg" />
+          <img src="../../public/drink/drink07.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink08.jpg" />
+          <img src="../../public/drink/drink08.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/drink/drink09.jpg" />
+          <img src="../../public/drink/drink09.jpg" />
         </SwiperSlide>
       </Swiper>
     </div>
